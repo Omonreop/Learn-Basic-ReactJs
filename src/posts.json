@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Tutorial belajar Reactjs basic",
+    "tags": ["React", "frontend"],
+    "date": "2024-12-23",
+    "isNew": true
+  },
+  {
+    "title": "Tutorial belajar Reactjs intermediate",
+    "tags": ["React", "frontend"],
+    "date": "2024-12-20",
+    "isNew": false
+  },
+  {
+    "title": "Tutorial belajar Reactjs advanced",
+    "tags": ["React", "css"],
+    "date": "2024-12-19",
+    "isNew": false
+  }
+]
